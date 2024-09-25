@@ -1,0 +1,12 @@
+#articles {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-column-gap: 70px;
+        grid-row-gap: 10px;
+        }
+
+
+
+        .article-img {
+            width: 100%;
+        }
